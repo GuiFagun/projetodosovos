@@ -1,6 +1,8 @@
 <html>
     <head>
         <title>Sua Receita</title>
+    </head>
+    <body>
         <style>
         body{
             background-image: url('https://motionarray.imgix.net/preview-823559-HMikwIGwBLF1UKee-large.jpg?w=660&q=60&fit=max&auto=format');
@@ -21,8 +23,6 @@
             text-shadow: 1px 1px 1px cornsilk;
         }
         </style>
-    </head>
-    <body>
         <h1>Faça sua própria receita!</h1>
         <h3>Preencha os campos, mande uma imagem, e envie sua receita para nós!</h3>
         <hr>
