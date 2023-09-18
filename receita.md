@@ -1,6 +1,26 @@
 <html>
     <head>
         <title>Sua Receita</title>
+        <style>
+        body{
+            background-image: url('https://motionarray.imgix.net/preview-823559-HMikwIGwBLF1UKee-large.jpg?w=660&q=60&fit=max&auto=format');
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-attachment: fixed;
+        }
+        h1,h3{
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            color: rgb(255, 229, 100);
+            text-shadow: 1px 2px 2px rgb(74, 65, 44);
+            text-align: center;
+        }
+        form{
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            font-size: larger;
+            color: #3e3300;
+            text-shadow: 1px 1px 1px cornsilk;
+        }
+        </style>
     </head>
     <body>
         <h1>Faça sua própria receita!</h1>
